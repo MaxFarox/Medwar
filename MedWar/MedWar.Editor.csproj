@@ -630,6 +630,10 @@
       <Project>{131E6852-4305-7814-81FB-74A3AE6737C3}</Project>
       <Name>MedWar</Name>
     </ProjectReference>
+    <ProjectReference Include="MedWar.csproj">
+      <Project>{131E6852-4305-7814-81FB-74A3AE6737C3}</Project>
+      <Name>MedWar</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Packages\com.unity.collab-proxy\Editor\AssemblyInfo.cs" />
