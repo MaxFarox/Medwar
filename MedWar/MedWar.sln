@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWar", "MedWar.csproj", "{131E6852-4305-7814-81FB-74A3AE6737C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWar", "MedWar.csproj", "{131E6852-4305-7814-81FB-74A3AE6737C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWar", "MedWar.csproj", "{131E6852-4305-7814-81FB-74A3AE6737C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWar.Editor", "MedWar.Editor.csproj", "{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWar.Editor", "MedWar.Editor.csproj", "{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWar.Editor", "MedWar.Editor.csproj", "{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedWar.Editor", "MedWar.Editor.csproj", "{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131E6852-4305-7814-81FB-74A3AE6737C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17CC6461-4BF7-9C00-0DEC-9F7CE07C0602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
